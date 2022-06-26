@@ -7,13 +7,6 @@ Created on Sun Apr 17 12:09:37 2022
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Author: Stevon mitchell
-Course: 6050 Introduction to Computer Programming 
-University: Wayne State University 
-Assignment: Homework 3
-
-"""
 
 
 import json # json module for file writing
